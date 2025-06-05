@@ -10,8 +10,6 @@ import time
 import pandas
 # pandas -> biblioteca para manipulação de dados
 
-#CÓDIGO = usepython
-
 pyautogui.PAUSE = 0.5  # Pausa de 0.5 segundo entre os comandos
 
 # Passo 1 - Entrar no sistema da empresa: https://dlp.hashtagtreinamentos.com/python/intensivao/login
